@@ -1,0 +1,14 @@
+page-intro {
+  .button-effect {
+    width:50%;
+    border-radius: 10px;
+    border-color:white;
+  }
+  .button-inner {
+    color: white;
+  }
+  .bg {
+    background-color: lightblue; /* For browsers that do not support gradients */
+    background-image: linear-gradient(to right, #0037ff85, #ff00e769 ,#fabdffe3);
+  }
+}
